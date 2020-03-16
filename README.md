@@ -57,3 +57,7 @@
   - [Lancet | Coronavirus](https://www.thelancet.com/coronavirus)
   - [Elsevier | Coronavirus](https://www.elsevier.com/connect/coronavirus-information-center)
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
+- **Grant Application / Holder Information**
+  - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
+  - [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)
+  - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
