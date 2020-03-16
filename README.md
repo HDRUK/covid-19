@@ -1,7 +1,9 @@
 ## Coronavirus (COVID-19) Useful Resources
 
-### 🇬🇧United Kingdom
-- **🏴󠁧󠁢󠁥󠁮󠁧󠁿England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
+<hr>
+
+### 🇬🇧 United Kingdom
+- **🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
       - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
       - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
@@ -15,18 +17,23 @@
       - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
-- **🇬🇧Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
-- **🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
-- ** 🏴󠁧󠁢󠁷󠁬󠁳󠁿Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
+- **🇬🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
+- **🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
+- **🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
 - **Government Groups**
     - [Scientific Pandemic Influenze Modelling Group](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
     - [SPI-M Modelling Summary Report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/756738/SPI-M_modelling_summary_final.pdf) [Last Updated 2018]
 
-### 🇪🇺Europe
+<hr>
+
+### 🇪🇺 Europe
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
   - [Geographic Distribution of COVID-19 Cases Worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
-### 🌐Worldwide
-- **🇺🇳World Health Organisation**
+
+<hr>
+
+### 🌐 Worldwide
+- **🇺🇳 World Health Organisation**
   - [COVID-19 Case Definition](https://apps.who.int/iris/bitstream/handle/10665/331231/WHO-2019-nCoV-SurveillanceGuidance-2020.4-eng.pdf?sequence=1&isAllowed=y)
   - [Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
