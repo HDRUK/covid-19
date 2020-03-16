@@ -3,14 +3,18 @@
 ### United Kingdom
 - **England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
-    - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
-    - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
+      - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
+      - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
     - Latest Data Extracts
-    - [Daily Indicators](https://www.arcgis.com/home/item.html?id=bc8ee90225644ef7a6f4dd1b13ea1d67) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/bc8ee90225644ef7a6f4dd1b13ea1d67/data)
-    - [Daily Confirmed Cases](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11/data)
-    - [NHS England Regions Case Table](https://www.arcgis.com/home/item.html?id=ca796627a2294c51926865748c4a56e8) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/ca796627a2294c51926865748c4a56e8/data)
-    - [Upper Tier Local Authority Cases Table](https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6) - [CSV](https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data)
-    - [UK Countries Cases](https://www.arcgis.com/home/item.html?id=0490914464f849108e87800f1fcf6d2a)
+      - [Daily Indicators](https://www.arcgis.com/home/item.html?id=bc8ee90225644ef7a6f4dd1b13ea1d67) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/bc8ee90225644ef7a6f4dd1b13ea1d67/data)
+      - [Daily Confirmed Cases](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11/data)
+      - [NHS England Regions Case Table](https://www.arcgis.com/home/item.html?id=ca796627a2294c51926865748c4a56e8) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/ca796627a2294c51926865748c4a56e8/data)
+      - [Upper Tier Local Authority Cases Table](https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6) - [CSV](https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data)
+      - [UK Countries Cases](https://www.arcgis.com/home/item.html?id=0490914464f849108e87800f1fcf6d2a) - Shapefile
+    - Community Daily Extracts / Visualisation
+      - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
+      - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
+      - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
 - **Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
