@@ -17,8 +17,7 @@
       - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
-      - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
-      - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros 
+      - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros Denexas
 - **🇬🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
@@ -50,6 +49,8 @@
   - [JHU CSSE COVID-19 Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Source Code](https://github.com/CSSEGISandData/COVID-19)
   - [Tableu COVID-19 Data Rosource Hub](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
+- **Community Repositories**
+  - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
 - **Knowledge Bases**
   - [Golden COVID-19](https://golden.com/wiki/Cluster%3A_COVID-19-ZXJX9AR)
 - **Nucleotide sequences, SRA sequences, Reference Genome**
