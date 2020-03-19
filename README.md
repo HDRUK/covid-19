@@ -13,10 +13,12 @@
       - [NHS England Regions Case Table](https://www.arcgis.com/home/item.html?id=ca796627a2294c51926865748c4a56e8) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/ca796627a2294c51926865748c4a56e8/data)
       - [Upper Tier Local Authority Cases Table](https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6) - [CSV](https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data)
       - [UK Countries Cases](https://www.arcgis.com/home/item.html?id=0490914464f849108e87800f1fcf6d2a) - Shapefile
-    - Community Daily Extracts / Visualisation
+    - Community Repositories
       - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
+      - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+      - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros 
 - **🇬🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
