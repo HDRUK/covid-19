@@ -4,8 +4,8 @@
 
 ### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
 - **NHS**
-    - **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
-    - **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
+    - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
+    - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
 - **![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
       - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
@@ -20,7 +20,7 @@
       - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
-      - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros Denexas
+      - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: Spiros Denexas
 - **![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
@@ -42,7 +42,7 @@
   - [Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
 - **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
-  - [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
 - **[Our World In Data](https://ourworldindata.org/coronavirus)**
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
