@@ -2,7 +2,7 @@
 
 <hr>
 
-### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16)🇧 United Kingdom
+### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
 - **![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
       - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
@@ -18,7 +18,7 @@
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
       - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros Denexas
-- **🇬🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
+- **![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16)🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
 - **Government Groups**
