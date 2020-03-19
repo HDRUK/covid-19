@@ -2,8 +2,8 @@
 
 <hr>
 
-### 🇬🇧 United Kingdom
-- **🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
+### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16)🇧 United Kingdom
+- **![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
       - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
       - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
@@ -19,8 +19,8 @@
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
       - [COVID-19 Phenomics](https://spiros.github.io/covid19-phenomics/) - Author: Spiros Denexas
 - **🇬🇧 Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
-- **🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
-- **🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
+- **![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
+- **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
 - **Government Groups**
     - [Scientific Pandemic Influenze Modelling Group](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
     - [SPI-M Modelling Summary Report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/756738/SPI-M_modelling_summary_final.pdf) [Last Updated 2018]
