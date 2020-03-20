@@ -3,40 +3,41 @@
 ##                 ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
 ### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
-- **NHS**
-    - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
-    - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
-- **![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
-    - ArcGIS Tracker
-      - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
-      - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
-    - Latest Data Extracts
-      - [Daily Indicators](https://www.arcgis.com/home/item.html?id=bc8ee90225644ef7a6f4dd1b13ea1d67) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/bc8ee90225644ef7a6f4dd1b13ea1d67/data)
-      - [Daily Confirmed Cases](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11/data)
-      - [NHS England Regions Case Table](https://www.arcgis.com/home/item.html?id=ca796627a2294c51926865748c4a56e8) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/ca796627a2294c51926865748c4a56e8/data)
-      - [Upper Tier Local Authority Cases Table](https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6) - [CSV](https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data)
-      - [UK Countries Cases](https://www.arcgis.com/home/item.html?id=0490914464f849108e87800f1fcf6d2a) - Shapefile
-    - Community Repositories
-      - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
-      - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
-      - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
-      - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: Spiros Denexas
-- **![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
-- **![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
-- **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
-- **Government Groups**
-    - [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage)
-      - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [SAGE: Coronavirus (COVID-19) response](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)**
-    - [Scientific Pandemic Influenza Modelling Group (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
-      - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
-    - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
-    - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
-- **Modelling**
+#### NHS
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
+#### ![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
+  - ArcGIS Tracker
+    - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
+    - [Track Coronavirus (Mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
+  - Latest Data Extracts
+    - [Daily Indicators](https://www.arcgis.com/home/item.html?id=bc8ee90225644ef7a6f4dd1b13ea1d67) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/bc8ee90225644ef7a6f4dd1b13ea1d67/data)
+    - [Daily Confirmed Cases](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11/data)
+    - [NHS England Regions Case Table](https://www.arcgis.com/home/item.html?id=ca796627a2294c51926865748c4a56e8) - [Excel XLSX](https://www.arcgis.com/sharing/rest/content/items/ca796627a2294c51926865748c4a56e8/data)
+    - [Upper Tier Local Authority Cases Table](https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6) - [CSV](https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data)
+    - [UK Countries Cases](https://www.arcgis.com/home/item.html?id=0490914464f849108e87800f1fcf6d2a) - Shapefile
+  - Community Repositories
+    - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
+    - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
+    - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
+    - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: Spiros Denexas
+
+#### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)
+#### ![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)
+#### ![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)
+#### Government Groups
+  - [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage)
+    - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [SAGE: Coronavirus (COVID-19) response](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)**
+  - [Scientific Pandemic Influenza Modelling Group (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
+    - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
+  - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
+  - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
+#### Modelling
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
-](https://github.com/cmmid)**
-- **BioBanking**
-   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
-- **Training**
+](https://github.com/cmmid)
+#### BioBanking
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
+#### Training
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [LSHTM - COVID-19: Tackling the Novel Coronavirus](https://www.lshtm.ac.uk/study/courses/short-courses/free-online-courses/coronavirus) - Starts 23 March 2020**
 
 <hr>
