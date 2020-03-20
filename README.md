@@ -1,4 +1,4 @@
-# HDR UK Useful Resources for Coronavirus (COVID-19) Research
+# HDR UK - Resources for Coronavirus (COVID-19) Research
 
 <hr>
 
