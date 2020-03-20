@@ -1,6 +1,8 @@
-## Coronavirus (COVID-19) Useful Resources
+# HDR UK Coronavirus (COVID-19) Useful Resources
 
 <hr>
+
+## ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
 ### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
 - **NHS**
@@ -43,6 +45,7 @@
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
 - **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
+- ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - **[Our World In Data](https://ourworldindata.org/coronavirus)**
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
@@ -74,5 +77,5 @@
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
 - **Grant Application / Holder Information**
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
-  - [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
