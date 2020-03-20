@@ -45,6 +45,7 @@
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
 - **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
+  - ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - **[Our World In Data](https://ourworldindata.org/coronavirus)**
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
