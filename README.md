@@ -74,6 +74,8 @@
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
 - **Publications**
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Gautret et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial](https://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)**
 - **Journals**
   - [New England Journal of Medicine | Coronavirus](https://www.nejm.org/coronavirus)
   - [Journal of American Medical Association | Coronavirus](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
