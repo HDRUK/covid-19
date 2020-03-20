@@ -38,6 +38,8 @@
 ](https://github.com/cmmid)**
 - **BioBanking**
    - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
+- **Training**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [LSHTM - COVID-19: Tackling the Novel Coronavirus](https://www.lshtm.ac.uk/study/courses/short-courses/free-online-courses/coronavirus) - Starts 23 March 2020**
 
 <hr>
 
