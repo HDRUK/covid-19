@@ -62,6 +62,8 @@
   - [JHU CSSE COVID-19 Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Source Code](https://github.com/CSSEGISandData/COVID-19)
   - [Tableu COVID-19 Data Rosource Hub](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
+- **Technology Providers**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [AIMES COVID-19 update](https://www.aimes.uk/news-1577)**
 - **Community Repositories**
   - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
 - **Knowledge Bases**
