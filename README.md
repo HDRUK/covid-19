@@ -2,12 +2,12 @@
 
 <hr>
 
-## ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
+## ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
 ### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
 - **NHS**
-    - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
-    - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
+    - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
+    - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
 - **![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)**
     - ArcGIS Tracker
       - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
@@ -22,7 +22,7 @@
       - [Google Sheets](https://docs.google.com/spreadsheets/d/129bJR5Mgcr5qOQNc96CBWKFfjODToWKRiVKDEg5ybkU/edit#gid=259037066) - Author: Unknown
       - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
       - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
-      - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: Spiros Denexas
+      - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: Spiros Denexas
 - **![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)**
 - **![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)**
 - **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
@@ -50,9 +50,9 @@
   - [Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
 - **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
-  - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
   - ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
-- ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
+- ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - **[Our World In Data](https://ourworldindata.org/coronavirus)**
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
@@ -88,8 +88,8 @@
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
 - **Funding / Grant Application / Holder Information**
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
-  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
 - **Funding Opportinities**
-  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
-  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
