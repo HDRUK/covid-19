@@ -28,10 +28,10 @@
 - **![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)**
 - **Government Groups**
     - [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage)
-      - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Scientific Advisory Group for Emergencies (SAGE): Coronavirus (COVID-19) response](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)**
-    - [Scientific Pandemic Influenze Modelling Group](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
+      - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [SAGE: Coronavirus (COVID-19) response](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)**
+    - [Scientific Pandemic Influenze Modelling Group (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling)
       - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
-    - [New and Emerging Respiratory Virus Threats Advisory Group](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
+    - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
     - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
  - **BioBanking**
    - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
