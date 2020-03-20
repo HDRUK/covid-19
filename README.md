@@ -73,6 +73,7 @@
   - [Tableu COVID-19 Data Rosource Hub](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
 - **Technology Providers**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [AIMES COVID-19 update](https://www.aimes.uk/news-1577)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Interactive Software COVID-19 update](https://www.interactivesoftware.co.uk/2020/03/20/interactive-software-limited-covid-19-update-and-business-continuity-plan/)**
 - **Community Repositories**
   - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
 - **Knowledge Bases**
@@ -93,7 +94,7 @@
   - [Lancet | Coronavirus](https://www.thelancet.com/coronavirus)
   - [Elsevier | Coronavirus](https://www.elsevier.com/connect/coronavirus-information-center)
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
-- **Funding / Grant Application / Holder Information**
+- **Grant Application / Holder Information**
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
