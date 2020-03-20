@@ -1,4 +1,6 @@
-# HDR UK - Resources for Coronavirus (COVID-19) Research
+[![Slack Channel](https://img.shields.io/badge/Slack-%23covid--19challenge-brightgreen)](https://healthdataresearchuk.slack.com/archives/CV5B38SF3) [![Join Mailinglist](https://img.shields.io/badge/Mailing%20list-%23covid--19challenge-yellow)](https://hdruk.us18.list-manage.com/subscribe?u=aebfef05d173a4888d1cde535&id=30d89c2c77) ![Twitter Follow](https://img.shields.io/twitter/follow/hdruk?label=Follow&style=social)
+
+# HDR UK - Resources for Coronavirus (COVID-19) Research ![GitHub last commit](https://img.shields.io/github/last-commit/hdruk/covid-19)
 
 ##                 ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
