@@ -33,6 +33,8 @@
       - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
     - [New and Emerging Respiratory Virus Threats Advisory Group](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
     - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
+ - **BioBanking**
+   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
 
 <hr>
 
@@ -84,7 +86,10 @@
   - [Lancet | Coronavirus](https://www.thelancet.com/coronavirus)
   - [Elsevier | Coronavirus](https://www.elsevier.com/connect/coronavirus-information-center)
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
-- **Grant Application / Holder Information**
+- **Funding / Grant Application / Holder Information**
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
-  - ![New](https://img.shields.io/badge/NEW-2020--03--19-red) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
+- **Funding Opportinities**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--19-red) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
