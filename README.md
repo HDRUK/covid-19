@@ -1,8 +1,6 @@
 # HDR UK - Resources for Coronavirus (COVID-19) Research
 
-## ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
-
-<hr>
+##                 ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
 ### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) United Kingdom
 - **NHS**
