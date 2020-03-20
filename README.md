@@ -33,7 +33,10 @@
       - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
     - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
     - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
- - **BioBanking**
+- **Modelling**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
+](https://github.com/cmmid)**
+- **BioBanking**
    - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
 
 <hr>
