@@ -34,7 +34,7 @@
   - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
 #### Modelling
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
-](https://github.com/cmmid)
+](https://github.com/cmmid)**
 #### BioBanking
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
 #### Training
@@ -53,12 +53,16 @@
   - [COVID-19 Case Definition](https://apps.who.int/iris/bitstream/handle/10665/331231/WHO-2019-nCoV-SurveillanceGuidance-2020.4-eng.pdf?sequence=1&isAllowed=y)
   - [Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
+  - [Eric Brown's WHO curated Dataset for R](https://github.com/eebrown/data2019nCoV)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Online Training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Infection Prevention and Control for Coronavirus](https://openwho.org/courses/COVID-19-IPC-EN)**
 - **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
-  - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Rensselaer Polytechnic Institute - IDEA: COVID-19 Data, Resources & Challenges](https://idea.rpi.edu/covid-19-resources)**
+  - [JHU CSSE Covid Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+  - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Allen Institute for AI: COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
   - ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
+- [Kaggle Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - **[Our World In Data](https://ourworldindata.org/coronavirus)**
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
@@ -75,6 +79,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Interactive Software COVID-19 update](https://www.interactivesoftware.co.uk/2020/03/20/interactive-software-limited-covid-19-update-and-business-continuity-plan/)**
 - **Community Repositories**
   - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
+  - [Tweet ID dataset associated with Coronavirus](https://github.com/echen102/COVID-19-TweetIDs)
 - **Knowledge Bases**
   - [Golden COVID-19](https://golden.com/wiki/Cluster%3A_COVID-19-ZXJX9AR)
 - **Nucleotide sequences, SRA sequences, Reference Genome**
@@ -97,6 +102,9 @@
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
-- **Funding Opportinities**
+- **Funding Opportinities / Challenges**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [R Consortium March 2020 Call for Proposals](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)** ![New](https://img.shields.io/badge/Deadline-2020--04--02-blue)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [National Science Foundation (US)](https://www.nsf.gov/pubs/2020/nsf20052/nsf20052.jsp?org=NSF)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Kaggle CORD-19 Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)**
