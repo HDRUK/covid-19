@@ -49,6 +49,8 @@
   - [Geographic Distribution of COVID-19 Cases Worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 - European Medicines Agency
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Call to pool research resources into large multi-centre, multi-arm clinical trials to generate sound evidence on COVID-19 treatments](https://www.ema.europa.eu/en/news/call-pool-research-resources-large-multi-centre-multi-arm-clinical-trials-generate-sound-evidence)**
+- **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [European Virus Archive - Cronoavirus](https://www.european-virus-archive.com/evag-news/wuhan-coronavirus)**
+- **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [European Clinical Trials Register - COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)**
 
 <hr>
 
@@ -110,6 +112,7 @@
   - [Schema.org > CovidTestingFacility](https://schema.org/CovidTestingFacility)
 #### Clinical Trials
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [ISRCTN - Covid-19](https://www.isrctn.com/search?q=covid-19)**
 #### Drug Development and Test Assays
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [FindDX SARS-COV-1 Diagnostic Pipelines](https://www.finddx.org/covid-19/pipeline/)**
 #### Analysis Software / Workflows / Pipelines
