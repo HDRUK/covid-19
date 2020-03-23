@@ -62,7 +62,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [Online Training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [Infection Prevention and Control for Coronavirus](https://openwho.org/courses/COVID-19-IPC-EN)**
 
-#### Red Cross
+#### ![RedCross](https://www.iconfinder.com/icons/15964/download/png/16) Red Cross
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) Red Cross Covid-19 Vulnerability Index](https://britishredcrosssociety.github.io/covid-19-vulnerability/)**
 
 #### ![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America
