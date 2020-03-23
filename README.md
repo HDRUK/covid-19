@@ -63,7 +63,8 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [Infection Prevention and Control for Coronavirus](https://openwho.org/courses/COVID-19-IPC-EN)**
 
 #### ![RedCross](https://www.iconfinder.com/icons/15964/download/png/24) Red Cross
-  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) Red Cross Covid-19 Vulnerability Index](https://britishredcrosssociety.github.io/covid-19-vulnerability/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Red Cross Covid-19 Vulnerability Index](https://britishredcrosssociety.github.io/covid-19-vulnerability/)** This prototype highlights vulnerability for wards in England by combining clinical factors (some of the underlying health conditions) with social factors (a bespoke COVID-19 index of multiple deprivation, along with community needs).
+    - Source Code / More info and underlying code/data: [britishredcrosssociety/covid-19-vulnerability](https://github.com/britishredcrosssociety/covid-19-vulnerability)
 
 #### ![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [Rensselaer Polytechnic Institute - IDEA: COVID-19 Data, Resources & Challenges](https://idea.rpi.edu/covid-19-resources)**
