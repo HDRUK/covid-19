@@ -92,9 +92,9 @@
   - [GenBank Sequence Data](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049)
   - [ENA Pathogens COVID-19](https://www.ebi.ac.uk/ena/pathogens/covid-19)
   - [SRP250294](https://github.com/katarinabraun/SARS-CoV-2_sequencing) Illumina & Oxford Nanopore data of depleted host seqiences and other contaminating sequences
-  - [CNCB](https://bigd.big.ac.cn/ncov/?lang=en)
-    - [Wuhan Seafood Market Pneumonia Virus](ftp://download.big.ac.cn/Genome/Viruses/Wuhan_seafood_market_pneumonia_virus/)
-    - [Coronaviridae Genome](ftp://download.big.ac.cn/Genome/Viruses/Coronaviridae/genome/)
+  - [CNCB](https://bigd.big.ac.cn/ncov/?lang=en) raw data downloads in coronaviridae
+    - Wuhan Seafood Market Pneumonia Virus - ftp://download.big.ac.cn/Genome/Viruses/Wuhan_seafood_market_pneumonia_virus/
+    - Coronaviridae Genome - ftp://download.big.ac.cn/Genome/Viruses/Coronaviridae/genome/
 #### Clinical Trials
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
 #### Publications
