@@ -95,8 +95,22 @@
   - [CNCB](https://bigd.big.ac.cn/ncov/?lang=en) raw data downloads in coronaviridae
     - Wuhan Seafood Market Pneumonia Virus - ftp://download.big.ac.cn/Genome/Viruses/Wuhan_seafood_market_pneumonia_virus/
     - Coronaviridae Genome - ftp://download.big.ac.cn/Genome/Viruses/Coronaviridae/genome/
+  - [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/)
+#### Metadata Standards
+  - [SNOMED-CT COVID-19 Terms](http://www.snomed.org/news-and-events/articles/march-2020-interim-snomedct-release-COVID-19)
+  - [Schema.org > CovidTestingFacility](https://schema.org/CovidTestingFacility)
 #### Clinical Trials
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
+#### Drug Development and Test Assays
+  - [FindDX SARS-COV-1 Diagnostic Pipelines](https://www.finddx.org/covid-19/pipeline/)
+#### Analysis Software / Workflows / Pipelines
+  - [Viral Assembly Techniques from ONT Reads](https://github.com/ekg/viral-assembly)
+  - [COVID-19 data using Galaxy](https://github.com/galaxyproject/SARS-CoV-2)
+  - [ViReport Analysis of COVID-19 using GISAID](https://github.com/niemasd/ViReport-COVID-19)
+  - [Artic Network nCOV-2019 Novel Coronavirus Bioinformatics protocol](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html)
+  - [nf-core/covid19](https://github.com/nf-core/covid19)
+  - [INSaFLU/INSaFLU](https://github.com/INSaFLU/INSaFLU)
+  - [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - Automates the [Artic Network nCoV-19 protocol](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.htm). Uses Nextflow DSLv2 and {non-}barcoded Nanopore data.
 #### Publications
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
