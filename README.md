@@ -1,6 +1,6 @@
 [![Slack Channel](https://img.shields.io/badge/Slack-%23covid--19challenge-brightgreen)](https://healthdataresearchuk.slack.com/archives/CV5B38SF3) [![Join Mailinglist](https://img.shields.io/badge/Mailing%20list-%23covid--19challenge-yellow)](https://hdruk.us18.list-manage.com/subscribe?u=aebfef05d173a4888d1cde535&id=30d89c2c77) ![Twitter Follow](https://img.shields.io/twitter/follow/HDR_UK?style=social)
 
-# HDR UK - Resources for 🦠 Coronavirus (COVID-19) Research ![GitHub last commit](https://img.shields.io/github/last-commit/hdruk/covid-19)
+# HDR UK - Resources for 🦠 Coronavirus (COVID-19) Research 
 
 ##                 ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [HDR UK COVID-19 Response Webpage](https://www.hdruk.ac.uk/covid-19/)
 
@@ -51,60 +51,60 @@
 <hr>
 
 ### 🌐 Worldwide
-- **🇺🇳 World Health Organisation**
+#### 🇺🇳 World Health Organisation
   - [COVID-19 Case Definition](https://apps.who.int/iris/bitstream/handle/10665/331231/WHO-2019-nCoV-SurveillanceGuidance-2020.4-eng.pdf?sequence=1&isAllowed=y)
   - [Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [Global Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPTRZRnB0OVhKMTBn)
   - [Eric Brown's WHO curated Dataset for R](https://github.com/eebrown/data2019nCoV)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Online Training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Infection Prevention and Control for Coronavirus](https://openwho.org/courses/COVID-19-IPC-EN)**
-- **![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America**
+#### ![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Rensselaer Polytechnic Institute - IDEA: COVID-19 Data, Resources & Challenges](https://idea.rpi.edu/covid-19-resources)**
   - [JHU CSSE Covid Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Allen Institute for AI: COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
   - ![New](https://img.shields.io/badge/NEW-2020--03--20-red) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - [Kaggle Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-- **[Our World In Data](https://ourworldindata.org/coronavirus)**
+#### [Our World In Data](https://ourworldindata.org/coronavirus)
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
   - [New Confirmed Cases](https://covid.ourworldindata.org/data/new_cases.csv)
   - [New Deaths](https://covid.ourworldindata.org/data/new_deaths.csv)
   - [Full Dataset](https://covid.ourworldindata.org/data/full_data.csv)
-- **Visulaisations**
+#### Visulaisations
   - [NextStrain NCOV](https://nextstrain.org/ncov)
   - [JHU CSSE COVID-19 Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Source Code](https://github.com/CSSEGISandData/COVID-19)
   - [Tableu COVID-19 Data Rosource Hub](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
-- **Technology Providers**
+#### Technology Providers
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [AIMES COVID-19 update](https://www.aimes.uk/news-1577)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Interactive Software COVID-19 update](https://www.interactivesoftware.co.uk/2020/03/20/interactive-software-limited-covid-19-update-and-business-continuity-plan/)**
-- **Community Repositories**
+#### Community Repositories
   - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
   - [Tweet ID dataset associated with Coronavirus](https://github.com/echen102/COVID-19-TweetIDs)
-- **Knowledge Bases**
+#### Knowledge Bases
   - [Golden COVID-19](https://golden.com/wiki/Cluster%3A_COVID-19-ZXJX9AR)
-- **Nucleotide sequences, SRA sequences, Reference Genome**
+#### Nucleotide sequences, SRA sequences, Reference Genome
   - [NCBI Genbank Sequences SARS-CoV-2](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
   - [GenBank Sequence Data](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049)
   - [ENA Pathogens COVID-19](https://www.ebi.ac.uk/ena/pathogens/covid-19)
-- **Clinical Trials**
+#### Clinical Trials
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
-- **Publications**
+#### Publications
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [Gautret et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial](https://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)**
-- **Journals**
+#### Journals
   - [New England Journal of Medicine | Coronavirus](https://www.nejm.org/coronavirus)
   - [Journal of American Medical Association | Coronavirus](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
   - [Lancet | Coronavirus](https://www.thelancet.com/coronavirus)
   - [Elsevier | Coronavirus](https://www.elsevier.com/connect/coronavirus-information-center)
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
-- **Grant Application / Holder Information**
+#### Grant Application / Holder Information
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
-- **Funding Opportinities / Challenges**
+#### Funding Opportinities / Challenges
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-orange) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-red) [R Consortium March 2020 Call for Proposals](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)** ![New](https://img.shields.io/badge/Deadline-2020--04--02-blue)
