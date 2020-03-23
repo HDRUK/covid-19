@@ -99,6 +99,7 @@
     - Wuhan Seafood Market Pneumonia Virus - ftp://download.big.ac.cn/Genome/Viruses/Wuhan_seafood_market_pneumonia_virus/
     - Coronaviridae Genome - ftp://download.big.ac.cn/Genome/Viruses/Coronaviridae/genome/
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Critical Assesment of Structural Prediction (CASP) COVID-19 Proteome](http://predictioncenter.org/caspcommons/)**
 #### Metadata Standards
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [SNOMED-CT COVID-19 Terms](http://www.snomed.org/news-and-events/articles/march-2020-interim-snomedct-release-COVID-19)**
   - [Schema.org > CovidTestingFacility](https://schema.org/CovidTestingFacility)
