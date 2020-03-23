@@ -47,6 +47,8 @@
 ### 🇪🇺 Europe
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
   - [Geographic Distribution of COVID-19 Cases Worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+- European Medicines Agency
+  - [Call to pool research resources into large multi-centre, multi-arm clinical trials to generate sound evidence on COVID-19 treatments](https://www.ema.europa.eu/en/news/call-pool-research-resources-large-multi-centre-multi-arm-clinical-trials-generate-sound-evidence)
 
 <hr>
 
