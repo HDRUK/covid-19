@@ -71,6 +71,7 @@
 #### ![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [Rensselaer Polytechnic Institute - IDEA: COVID-19 Data, Resources & Challenges](https://idea.rpi.edu/covid-19-resources)**
   - [JHU CSSE Covid Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+    - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [JHU AWS Marketplace Subscription by Enigma](https://aws.amazon.com/marketplace/pp/Global-Coronavirus-COVID-19-Data-Johns-Hopkins/prodview-rmk3gahdzo3tg#overview)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Allen Institute for AI: COVID Open Research Dataset (CORD-19) - Publications](https://pages.semanticscholar.org/coronavirus-research)
   - ![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
@@ -89,6 +90,7 @@
 #### Technology Providers
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [AIMES COVID-19 update](https://www.aimes.uk/news-1577)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [Interactive Software COVID-19 update](https://www.interactivesoftware.co.uk/2020/03/20/interactive-software-limited-covid-19-update-and-business-continuity-plan/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [COVID-19 High Performance Computing Consortium](https://covid19-hpc.mybluemix.net/)**
 #### Community Repositories
   - [github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - Author: Joseph Paul Cohen
   - [Tweet ID dataset associated with Coronavirus](https://github.com/echen102/COVID-19-TweetIDs)
@@ -125,6 +127,8 @@
   - [nf-core/covid19](https://github.com/nf-core/covid19)
   - [INSaFLU/INSaFLU](https://github.com/INSaFLU/INSaFLU)
   - [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - Automates the [Artic Network nCoV-19 protocol](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.htm). Uses Nextflow DSLv2 and {non-}barcoded Nanopore data.
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [RamiKrispin/coronavirus](https://github.com/RamiKrispin/coronavirus)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [PyCOVID](https://github.com/sudharshan-ashok/pycovid)**
 #### Publications
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
