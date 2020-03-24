@@ -96,6 +96,8 @@
   - [Tweet ID dataset associated with Coronavirus](https://github.com/echen102/COVID-19-TweetIDs)
 #### Knowledge Bases
   - [Golden COVID-19](https://golden.com/wiki/Cluster%3A_COVID-19-ZXJX9AR)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Knowledge Graph Hub - COVID-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19)**
+  - [WikiData COVID-19](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_COVID-19)
 #### Nucleotide sequences, SRA sequences, Reference Genome
   - [GISAID](https://www.gisaid.org/) has the most complete sequence data collection of SARS-CoV-2. [Restricted Access]
   - [NCBI Reference Sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
@@ -133,6 +135,7 @@
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [Gautret et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial](https://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)**
+  - [PubAnnotation LitCovid](http://pubannotation.org/collections/LitCovid)
 #### Journals
   - [New England Journal of Medicine | Coronavirus](https://www.nejm.org/coronavirus)
   - [Journal of American Medical Association | Coronavirus](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
