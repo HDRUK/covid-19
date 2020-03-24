@@ -113,6 +113,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Critical Assesment of Structural Prediction (CASP) COVID-19 Proteome](http://predictioncenter.org/caspcommons/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [CSC SARS CoV2 Sequensing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing)**
 #### Metadata Standards
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [WHO Emergency Use ICD Codes for COVID-19](https://www.who.int/classifications/icd/covid19/en/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [SNOMED-CT COVID-19 Terms](http://www.snomed.org/news-and-events/articles/march-2020-interim-snomedct-release-COVID-19)**
   - [Schema.org > CovidTestingFacility](https://schema.org/CovidTestingFacility)
 #### Clinical Trials
