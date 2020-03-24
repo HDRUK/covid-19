@@ -111,6 +111,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [SNOMED-CT COVID-19 Terms](http://www.snomed.org/news-and-events/articles/march-2020-interim-snomedct-release-COVID-19)**
   - [Schema.org > CovidTestingFacility](https://schema.org/CovidTestingFacility)
 #### Clinical Trials
+  - [International Clinical Trials Registry Platform](https://apps.who.int/trialsearch/)
   - [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=%22wuhan+coronavirus%22)
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [ISRCTN - Covid-19](https://www.isrctn.com/search?q=covid-19)**
 #### Drug Development and Test Assays
