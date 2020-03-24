@@ -140,6 +140,9 @@
 #### Funding Opportinities / Challenges
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellow) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellow) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
-  - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [R Consortium March 2020 Call for Proposals](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)** ![New](https://img.shields.io/badge/Deadline-2020--04--02-blue)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) ![New](https://img.shields.io/badge/Deadline-2020--04--02-blue) [R Consortium March 2020 Call for Proposals](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [National Science Foundation (US)](https://www.nsf.gov/pubs/2020/nsf20052/nsf20052.jsp?org=NSF)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-orange) [Kaggle CORD-19 Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) ![New](https://img.shields.io/badge/Deadline-2020--03--31-blue) [IMI2 Call 21](https://www.imi.europa.eu/apply-funding/open-calls/imi2-call-21)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) ![New](https://img.shields.io/badge/Deadline-2020--05--11-blue) [Federal Ministry of Education and Research - Germany](https://www.dlr.de/pt/Portaldata/45/Resources/Dokumente/GF/2020_03_02_Call_announcement_covid19.pdf)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Wellcome Trust - Epidemic Prepardness Covid-19 Funding Call](https://wellcome.ac.uk/grant-funding/schemes/epidemic-preparedness-covid-19)**
