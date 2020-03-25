@@ -24,6 +24,7 @@
     - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
     - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
     - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: [Spiros Denaxas](https://twitter.com/SpirosDenaxas)
+    - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [KIng's College London COVID-19 Tracker](https://covid.joinzoe.com/)**
 
 #### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)
 #### ![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)
