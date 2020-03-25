@@ -78,6 +78,9 @@
   - ![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [MIDAS Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - [Kaggle Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+
+#### Research Data Alliance
+- **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [COVID-19 Working Group](https://www.rd-alliance.org/rda-covid-19-working-group-urgent-call-expert-contributions-0)**
 #### [Our World In Data](https://ourworldindata.org/coronavirus)
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
