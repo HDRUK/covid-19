@@ -135,6 +135,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [PyCOVID](https://github.com/sudharshan-ashok/pycovid)**
 #### Publications
   - [Pubmed / Medline](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
+  - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [PRE-PRINT Age-dependent effects in the transmission and control of COVID-19 epidemics](https://cmmid.github.io/topics/covid19/current-patterns-transmission/age_hypotheses.html)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [PRE-PRINT No more business as usual: agile and effective responses to emerging pathogen threats require open data and open analytics - usegalaxy.org, usegalaxy.eu, usegalaxy.org.au, usegalaxy.be and hyphy.org development teams](https://doi.org/10.1101/2020.02.21.959973)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [Gautret et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial](https://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)**
   - [PubAnnotation LitCovid](http://pubannotation.org/collections/LitCovid)
