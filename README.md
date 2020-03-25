@@ -79,6 +79,14 @@
 - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Scientist.com Clinical Trial Search and Discovery](https://app.trialinsights.com/dashboard/rgZytYrGWPjoCnQqY?show=portfolio_summary&sort=last_update_posted&direction=desc&draw=0)
 - [Kaggle Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
+#### Spain
+  - [Juanta de Castilla y Leon Coronovirus Tracker](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/)
+
+#### France
+  - [Corsica Coronavirus Tracker](https://data.corse.fr/explore/dataset/evolution-de-la-pandemie-de-covid-19-en-france/custom/)
+
+#### Jordan
+  - [Jordan Corona Virus Tracker](https://corona.moh.gov.jo/ar)
 #### Research Data Alliance
 - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [COVID-19 Working Group](https://www.rd-alliance.org/rda-covid-19-working-group-urgent-call-expert-contributions-0)**
 #### [Our World In Data](https://ourworldindata.org/coronavirus)
