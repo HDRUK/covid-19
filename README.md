@@ -10,6 +10,10 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [NHS DIgital ICD-10 Classification Guidelines](https://hscic.kahootz.com/connect.ti/t_c_home/view?objectID=19099248)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
+
+#### National Institute for Health research
+  - **![New](https://img.shields.io/badge/NEW-2020--03--26-red) [NIHR Response](https://www.nihr.ac.uk/covid-19/)**
+  
 #### ![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
   - ArcGIS Tracker
     - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
@@ -28,8 +32,11 @@
     - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [KIng's College London COVID-19 Tracker](https://covid.joinzoe.com/)**
 
 #### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)
+
 #### ![Scotland](https://www.iconfinder.com/icons/92325/download/png/16)󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - [Scotish Government COVID-19 Information](https://www.gov.scot/coronavirus-covid-19/)
+
 #### ![Wales](https://www.iconfinder.com/icons/2634461/download/png/16)󠁧󠁢󠁷󠁬󠁳󠁿 Wales - [Welsh Government COVID-19 Information](https://gov.wales/coronavirus)
+
 #### Government Groups
   - [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage)
     - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [SAGE: Coronavirus (COVID-19) response](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)**
@@ -37,11 +44,14 @@
     - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
   - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
   - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
+
 #### Modelling
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
 ](https://github.com/cmmid)**
+
 #### BioBanking
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [UKCRC Tissue Directory and Coordination Centre - COVID-19 Response](https://biobankinguk.org/covid-19/)**
+
 #### Training
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [LSHTM - COVID-19: Tackling the Novel Coronavirus](https://www.lshtm.ac.uk/study/courses/short-courses/free-online-courses/coronavirus) - Starts 23 March 2020**
 
@@ -161,6 +171,7 @@
   - [Elsevier | Coronavirus](https://www.elsevier.com/connect/coronavirus-information-center)
   - [Nature | Coronavirus](https://www.nature.com/subjects/sars-virus)
 #### Grant Application / Holder Information
+  - **![New](https://img.shields.io/badge/NEW-2020--03--26-red) [NIHR Research Funding Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)**
   - [Wellcome Trust Guidance](https://wellcome.ac.uk/grant-funding/guidance/coronavirus-covid-19-information-grant-applicants-and-grantholders)
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
