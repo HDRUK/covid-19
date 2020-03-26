@@ -86,6 +86,8 @@
 #### France
   - [Corsica Coronavirus Tracker](https://data.corse.fr/explore/dataset/evolution-de-la-pandemie-de-covid-19-en-france/custom/)
 
+#### Canada
+  - [COVID-Net](https://github.com/lindawangg/COVID-Net)
 #### Jordan
   - [Jordan Corona Virus Tracker](https://corona.moh.gov.jo/ar)
 #### Research Data Alliance
