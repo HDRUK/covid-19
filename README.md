@@ -67,7 +67,7 @@
 
 <hr>
 
-### 🌐 Worldwide
+### Worldwide
 #### 🇺🇳 World Health Organisation
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [WHO - A coordinated Global Research Roadmap](https://www.who.int/blueprint/priority-diseases/key-action/Roadmap-version-FINAL-for-WEB.pdf?ua=1)**
   - [COVID-19 Case Definition](https://apps.who.int/iris/bitstream/handle/10665/331231/WHO-2019-nCoV-SurveillanceGuidance-2020.4-eng.pdf?sequence=1&isAllowed=y)
@@ -82,6 +82,7 @@
     - Source Code / More info and underlying code/data: [britishredcrosssociety/covid-19-vulnerability](https://github.com/britishredcrosssociety/covid-19-vulnerability)
 
 #### ![USA](https://www.iconfinder.com/icons/92407/download/png/16) United States of America
+  - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [NYTimes Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [Rensselaer Polytechnic Institute - IDEA: COVID-19 Data, Resources & Challenges](https://idea.rpi.edu/covid-19-resources)**
   - [JHU CSSE Covid Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
     - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [JHU AWS Marketplace Subscription by Enigma](https://aws.amazon.com/marketplace/pp/Global-Coronavirus-COVID-19-Data-Johns-Hopkins/prodview-rmk3gahdzo3tg#overview)**
