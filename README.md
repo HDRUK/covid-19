@@ -10,6 +10,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [NHS DIgital ICD-10 Classification Guidelines](https://hscic.kahootz.com/connect.ti/t_c_home/view?objectID=19099248)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [NHSX Data Platform Blog Post](https://healthtech.blog.gov.uk/2020/03/28/the-power-of-data-in-a-pandemic/)**
 
 #### National Institute for Health research
   - **![New](https://img.shields.io/badge/NEW-2020--03--26-red) [NIHR Response](https://www.nihr.ac.uk/covid-19/)**
@@ -44,6 +45,9 @@
     - [SPI-M Modelling Summary Report](https://www.gov.uk/government/publications/spi-m-publish-updated-modelling-summary) [Last Updated: 16 Nov 2018]
   - [New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG)](https://www.gov.uk/government/groups/new-and-emerging-respiratory-virus-threats-advisory-group)
   - [Independent Scientific Pandemic Influenza Group on Behaviours (SPI-B)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873732/07-role-of-behavioural-science-in-the-coronavirus-outbreak.pdf)
+
+#### Datasets
+  - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [BSTI COVID-19 Imaging Database](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/)**
 
 #### Modelling
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
@@ -185,3 +189,5 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) ![New](https://img.shields.io/badge/Deadline-2020--03--31-blue) [IMI2 Call 21](https://www.imi.europa.eu/apply-funding/open-calls/imi2-call-21)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) ![New](https://img.shields.io/badge/Deadline-2020--05--11-blue) [Federal Ministry of Education and Research - Germany](https://www.dlr.de/pt/Portaldata/45/Resources/Dokumente/GF/2020_03_02_Call_announcement_covid19.pdf)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--23-red) [Wellcome Trust - Epidemic Prepardness Covid-19 Funding Call](https://wellcome.ac.uk/grant-funding/schemes/epidemic-preparedness-covid-19)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [Royal Society: RAPID ASSISTANCE IN MODELLING THE PANDEMIC: RAMP](https://epcced.github.io/ramp/)**
+  - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)**
