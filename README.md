@@ -30,8 +30,8 @@
     - [github.com/emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19) - Author: Emma Doughty - University of Birmingham
     - [github.com/tomwhite/covid-19-uk-data](https://github.com/tomwhite/covid-19-uk-data) - Author: Tom White
     - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [COVID-19 Phenomics](http://covid19-phenomics.org/) - Author: [Spiros Denaxas](https://twitter.com/SpirosDenaxas)
-    - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [King's College London COVID-19 Tracker](https://covid.joinzoe.com/)**
-    - **![New](https://img.shields.io/badge/NEW-2020--03--30-red) [Household Tracker](https://c19track.com/)**
+    - ![New](https://img.shields.io/badge/NEW-2020--03--25-red) [King's College London COVID-19 Tracker](https://covid.joinzoe.com/)
+    - **![New](https://img.shields.io/badge/NEW-2020--03--30-red) [c19track.com Community & Household Tracker](https://c19track.com/)**
 
 #### ![United Kingdom](https://www.iconfinder.com/icons/16014/download/png/16) Northern Ireland - [Public Health Agency COVID-19 Information](https://www.publichealth.hscni.net/news/covid-19-coronavirus)
 
