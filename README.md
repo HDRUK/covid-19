@@ -14,7 +14,11 @@
 
 #### National Institute for Health research
   - **![New](https://img.shields.io/badge/NEW-2020--03--26-red) [NIHR Response](https://www.nihr.ac.uk/covid-19/)**
-  
+
+#### UK Research and Innovation
+  - **![New](https://img.shields.io/badge/NEW-2020--03--31-red) [UKRI call for proposals](https://www.ukri.org/funding/funding-opportunities/ukri-open-call-for-research-and-innovation-ideas-to-address-covid-19/)**
+
+
 #### ![England](https://www.iconfinder.com/icons/15853/download/png/16)󠁧󠁢󠁥󠁮󠁧󠁿 England - [Public Health England - Covid-19 Tracker](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
   - ArcGIS Tracker
     - [Track Coronavirus (Desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
