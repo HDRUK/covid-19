@@ -191,6 +191,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [UK Research and Innovation Guidance](https://www.ukri.org/news/coronavirus-impact-on-ukri-supported-research/)**
   - [National Institute for Health Research Guidance](https://www.nihr.ac.uk/news/dhsc-issues-guidance-on-the-impact-on-covid-19-on-research-funded-or-supported-by-nihr/24469)
 #### Funding Opportinities / Challenges
+  - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) ![New](https://img.shields.io/badge/Deadline-2020--04--04-blue) [DE-COVID rapid response call](https://www.turing.ac.uk/work-turing/research-and-funding-calls/call-covid-19-rapid-response-data-science-taskforce)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Health research Board Ireland COVID-19 Funding Opportunity](https://www.hrb.ie/news/latest-news/news-story/article/covid-19-pandemic-rapid-response-funding-opportunity/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) [Mercatus COVID-19 Innovation Prize](https://www.mercatus.org/features/mercatus-launches-prize-fund-combat-covid-19)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) ![New](https://img.shields.io/badge/Deadline-2020--04--02-blue) [R Consortium March 2020 Call for Proposals](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)**
