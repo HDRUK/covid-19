@@ -12,6 +12,9 @@
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [NHSX Data Platform Blog Post](https://healthtech.blog.gov.uk/2020/03/28/the-power-of-data-in-a-pandemic/)**
 
+#### ICO
+  - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [ICO Guidance on Data protection and Coronavirus](https://ico.org.uk/for-organisations/data-protection-and-coronavirus/)**
+
 #### National Institute for Health research
   - **![New](https://img.shields.io/badge/NEW-2020--03--26-red) [NIHR Response](https://www.nihr.ac.uk/covid-19/)**
 
