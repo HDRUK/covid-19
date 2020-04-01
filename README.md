@@ -60,6 +60,7 @@
 #### Modelling
   - **![New](https://img.shields.io/badge/NEW-2020--03--20-yellow) [LSHTM - Centre for the Mathematical Modelling of Infectious Diseases
 ](https://github.com/cmmid)**
+    - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [CMMID COVID-19 UK Control Measures Model](https://cmmid.github.io/topics/covid19/control-measures/uk-scenario-modelling.html)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--30-red) [Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf)**
     - [COVID-19 Model Source Code](https://github.com/ImperialCollegeLondon/covid19model)
 
