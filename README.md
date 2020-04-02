@@ -14,6 +14,10 @@
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [NHSX Data Platform Blog Post](https://healthtech.blog.gov.uk/2020/03/28/the-power-of-data-in-a-pandemic/)**
 
+#### Professional Record Standards Body
+  - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [PRSB COVID-19 Guidance](https://theprsb.org/standards/covid-19snomedcodes/)**
+    - [Direct Link to SNOMED-CT COVID-19 terms](https://theprsb.org/wp-content/uploads/2020/04/COVID-19-SNOMED-CT-codes-by-groups-20200401v1.1.xlsx)
+
 #### ICO
   - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [ICO Guidance on Data protection and Coronavirus](https://ico.org.uk/for-organisations/data-protection-and-coronavirus/)**
 
