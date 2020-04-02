@@ -10,7 +10,7 @@
   - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [NHS DIgital ICD-10 Classification Guidelines](https://hscic.kahootz.com/connect.ti/t_c_home/view?objectID=19099248)**
     - **![New](https://img.shields.io/badge/NEW-2020--04--02-red) [NHS-D SNOMED-CT COVID-19 Terms](https://hscic.kahootz.com/connect.ti/COVID19_info_sharing/grouphome)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[NHS Digital - Data and Services to support the management of Coronavirus](https://digital.nhs.uk/news-and-events/latest-news/data-and-services-supporting-coronavirus)**
-    - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [NHS 11 Data and Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzhiNTlhZmUtYmI1Zi00NWU1LTgzNWUtNGViZTExNzlhMGFkIiwidCI6IjUwZjYwNzFmLWJiZmUtNDAxYS04ODAzLTY3Mzc0OGU2MjllMiIsImMiOjh9)**
+    - **![New](https://img.shields.io/badge/NEW-2020--04--01-red) [NHS 11 Data and Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzhiNTlhZmUtYmI1Zi00NWU1LTgzNWUtNGViZTExNzlhMGFkIiwidCI6IjUwZjYwNzFmLWJiZmUtNDAxYS04ODAzLTY3Mzc0OGU2MjllMiIsImMiOjh9) [Direct Link to dataset](https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest)**
   - ![New](https://img.shields.io/badge/NEW-2020--03--19-yellowgreen) **[Health Research Agency - Guidance for sponsors, sites and research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/covid-19-guidance-sponsors-sites-and-researchers/)**
   - **![New](https://img.shields.io/badge/NEW-2020--03--28-red) [NHSX Data Platform Blog Post](https://healthtech.blog.gov.uk/2020/03/28/the-power-of-data-in-a-pandemic/)**
 
