@@ -124,6 +124,10 @@
   - [Jordan Corona Virus Tracker](https://corona.moh.gov.jo/ar)
 #### Research Data Alliance
 - **![New](https://img.shields.io/badge/NEW-2020--03--25-red) [COVID-19 Working Group](https://www.rd-alliance.org/rda-covid-19-working-group-urgent-call-expert-contributions-0)**
+
+#### [Google COVID-19 Mobility Reports]()
+  - **![New](https://img.shields.io/badge/NEW-2020--03--29-yallow) [United Kingdom](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf)**
+
 #### [Our World In Data](https://ourworldindata.org/coronavirus)
   - [Total Confirmed Cases](https://covid.ourworldindata.org/data/total_cases.csv)
   - [Total Deaths](https://covid.ourworldindata.org/data/total_deaths.csv)
